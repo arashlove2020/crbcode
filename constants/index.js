@@ -1,4 +1,4 @@
-export const TOKEN_CONTRACT_ADDRESS = "crbcode-qpt35w32y-arash-love2020-yahoocom.vercel.app";
+export const TOKEN_CONTRACT_ADDRESS = "0xbed101ad0a1992c12f86eb213113eec315497f18";
 export const TOKEN_CONTRACT_ABI = [
 	{
 		"anonymous": false,
